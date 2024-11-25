@@ -44,7 +44,7 @@ To get started, follow these steps:
    Save all your changes.
 
 7. **Deploy Your Site:**
-   Your site is now live on GitHub Pages! You can access it at `https://<your-github-username>.github.io/<repository-name>`.
+   Your site is now live on GitHub Pages! You can access it at `https://urichuche2.github.io/sciencebits6x`.
 
 ### Usage:
 

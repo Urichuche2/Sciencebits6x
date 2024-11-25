@@ -195,7 +195,7 @@
     "name": "Basket Random",
     "image": "splash.jpeg",
     "url": "basket-random",
-    "new": false
+    "new": true
   },
   {
     "name": "Basketball Stars",

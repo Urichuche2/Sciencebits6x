@@ -765,7 +765,7 @@
     "name": "Hacker Type",
     "image": "logo192.png",
     "url": "hackertype",
-    "new": false
+    "new": true
   },
   {
     "name": "Handshakes",

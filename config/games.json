@@ -111,7 +111,7 @@
     "name": "Align 4 [MANTENIMENT]",
     "image": "board.png",
     "url": "align-4",
-    "new": false
+    "new": true
   },
   {
     "name": "Amidst the Clouds",

@@ -1,8 +1,8 @@
 [
   {
-    "name": "1v1lol",
+    "name": "Drift Boss",
     "image": "logo.png",
-    "url": "1v1lol",
+    "url": "drift-boss",
     "new": false
   },
   {
@@ -498,9 +498,9 @@
     "new": false
   },
   {
-    "name": "Drift Boss",
+    "name": "1v1lol",
     "image": "logo.png",
-    "url": "drift-boss",
+    "url": "1v1lol",
     "new": false
   },
   {

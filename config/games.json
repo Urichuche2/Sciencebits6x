@@ -6,9 +6,9 @@
     "new": false
   },
   {
-    "name": "1v1space",
-    "image": "splash.png",
-    "url": "1v1space",
+    "name": "DogeMiner",
+    "image": "favicon.ico",
+    "url": "DogeMiner",
     "new": false
   },
   {
@@ -42,11 +42,11 @@
     "new": false
   },
   {
-    "name": "DogeMiner",
-    "image": "favicon.ico",
-    "url": "DogeMiner",
+    "name": "1v1space",
+    "image": "splash.png",
+    "url": "1v1space",
     "new": false
-  },
+  },  
   {
     "name": "HexGL",
     "image": "icon.png",

@@ -3,7 +3,7 @@
     "name": "[NOMES ORDINADOR] Drift Boss",
     "image": "logo.png",
     "url": "drift-boss",
-    "new": false
+    "new": true
   },
   {
     "name": "DogeMiner",

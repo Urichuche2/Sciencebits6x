@@ -12,24 +12,6 @@
     "new": false
   },
   {
-    "name": "2048 Multitask",
-    "image": "splash.png",
-    "url": "2048-multitask",
-    "new": false
-  },
-  {
-    "name": "9007199254740992",
-    "image": "logo-4.png",
-    "url": "9007199254740992",
-    "new": false
-  },
-  {
-    "name": "1v1space",
-    "image": "splash.png",
-    "url": "1v1space",
-    "new": false
-  },  
-  {
     "name": "HexGL",
     "image": "icon.png",
     "url": "HexGL",

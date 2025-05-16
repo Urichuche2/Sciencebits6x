@@ -150,6 +150,12 @@
     "new": false
   },
   {
+    "name": "Craftmine",
+    "image": "images/animal-sheet0.png",
+    "url": "craftmine",
+    "new": false
+  },
+  {
     "name": "Fake Virus",
     "image": "icon.png",
     "url": "fake-virus",

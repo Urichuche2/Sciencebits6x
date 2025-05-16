@@ -1,11 +1,5 @@
 [
   {
-    "name": "[NOMES ORDINADOR] Drift Boss",
-    "image": "logo.png",
-    "url": "drift-boss",
-    "new": true
-  },
-  {
     "name": "DogeMiner",
     "image": "favicon.ico",
     "url": "DogeMiner",

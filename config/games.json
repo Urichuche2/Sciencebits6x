@@ -6,18 +6,6 @@
     "new": false
   },
   {
-    "name": "10 Minutes Till Dawn",
-    "image": "splash.png",
-    "url": "10-minutes-till-dawn",
-    "new": false
-  },
-  {
-    "name": "100ng",
-    "image": "100ng.jpg",
-    "url": "100ng",
-    "new": false
-  },
-  {
     "name": "2048",
     "image": "2048.png",
     "url": "2048",

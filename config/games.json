@@ -18,48 +18,6 @@
     "new": false
   },
   {
-    "name": "Offline Paradise",
-    "image": "assets/icon.jpeg",
-    "url": "OfflineParadise",
-    "new": false
-  },
-  {
-    "name": "Stickman Survival",
-    "image": "Icon.png",
-    "url": "Stickman-Survival",
-    "new": false
-  },
-  {
-    "name": "A Dance of Fire and Ice",
-    "image": "splash.png",
-    "url": "a-dance-of-fire-and-ice",
-    "new": false
-  },
-  {
-    "name": "Achievement Unlocked",
-    "image": "achievementunlocked.png",
-    "url": "achievementunlocked",
-    "new": false
-  },
-  {
-    "name": "A Dark Room",
-    "image": "splash.png",
-    "url": "adarkroom",
-    "new": false
-  },
-  {
-    "name": "Adrenaline Challenge",
-    "image": "adrenalinechallenge.jpg",
-    "url": "adrenalinechallenge",
-    "new": false
-  },
-  {
-    "name": "Adventure Drivers",
-    "image": "splash.png",
-    "url": "adventure-drivers",
-    "new": false
-  },
-  {
     "name": "Ages of Conflict",
     "image": "splash.jpg",
     "url": "ages-of-conflict",

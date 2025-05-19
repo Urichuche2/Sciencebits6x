@@ -30,27 +30,9 @@
     "new": false
   },
   {
-    "name": "Align 4 [MANTENIMENT]",
-    "image": "board.png",
-    "url": "align-4",
-    "new": true
-  },
-  {
-    "name": "Amidst the Clouds",
-    "image": "splash.png",
-    "url": "amidst-the-clouds",
-    "new": false
-  },
-  {
     "name": "Among Us",
     "image": "red.png",
     "url": "among-us",
-    "new": false
-  },
-  {
-    "name": "Angry Sharks",
-    "image": "assets/img/splash.png",
-    "url": "angry-sharks",
     "new": false
   },
   {
@@ -66,54 +48,6 @@
     "new": false
   },
   {
-    "name": "Avalanche",
-    "image": "avalanche.png",
-    "url": "avalanche",
-    "new": false
-  },
-  {
-    "name": "Awesome Tanks 2",
-    "image": "awesometanks2.jpg",
-    "url": "awesometanks2",
-    "new": false
-  },
-  {
-    "name": "Backrooms",
-    "image": "img/splash.jpg",
-    "url": "backrooms",
-    "new": false
-  },
-  {
-    "name": "Bad Ice Cream",
-    "image": "bad-ice-cream.png",
-    "url": "bad-ice-cream",
-    "new": false
-  },
-  {
-    "name": "Bad Ice Cream 2",
-    "image": "bad-ice-cream-2.png",
-    "url": "bad-ice-cream-2",
-    "new": false
-  },
-  {
-    "name": "Bad Ice Cream 3",
-    "image": "bad-ice-cream-3.png",
-    "url": "bad-ice-cream-3",
-    "new": false
-  },
-  {
-    "name": "Baldi's Basics",
-    "image": "splash.png",
-    "url": "baldis-basics",
-    "new": false
-  },
-  {
-    "name": "Ballistic Chickens",
-    "image": "logo.png",
-    "url": "ballistic-chickens",
-    "new": false
-  },
-  {
     "name": "Basket Random",
     "image": "splash.jpeg",
     "url": "basket-random",
@@ -126,129 +60,15 @@
     "new": false
   },
   {
-    "name": "Basketbros.io",
-    "image": "thumb.jpg",
-    "url": "basketbros-io",
-    "new": false
-  },
-  {
-    "name": "Battle for Gondor",
-    "image": "battleforgondor.JPG",
-    "url": "battleforgondor",
-    "new": false
-  },
-  {
-    "name": "Big Red Button",
-    "image": "bigredbutton.png",
-    "url": "bigredbutton",
-    "new": false
-  },
-  {
     "name": "BitLife",
     "image": "splash.png",
     "url": "bitlife",
     "new": false
   },
   {
-    "name": "Black Hole Square",
-    "image": "icon.png",
-    "url": "blacholesquare",
-    "new": false
-  },
-  {
-    "name": "Black Knight",
-    "image": "blackknight.png",
-    "url": "blackknight",
-    "new": false
-  },
-  {
-    "name": "Bloons TD",
-    "image": "bloonstd.jpg",
-    "url": "bloonstd",
-    "new": false
-  },
-  {
-    "name": "Bloons TD 2",
-    "image": "bloonstd2.png",
-    "url": "bloonstd2",
-    "new": false
-  },
-  {
-    "name": "Bloxors",
-    "image": "title.png",
-    "url": "bloxors",
-    "new": false
-  },
-  {
-    "name": "BNTTS",
-    "image": "icons/icon-256.png",
-    "url": "bntts",
-    "new": false
-  },
-  {
-    "name": "Bob the Robber 2",
-    "image": "splash.jpeg",
-    "url": "bobtherobber2",
-    "new": false
-  },
-  {
-    "name": "Boxhead 2 Play",
-    "image": "boxhead2play.jpg",
-    "url": "boxhead2play",
-    "new": false
-  },
-  {
     "name": "Boxing Random",
     "image": "512x512.jpg",
     "url": "boxing-random",
-    "new": false
-  },
-  {
-    "name": "Breaking the Bank",
-    "image": "breakingthebank.png",
-    "url": "breakingthebank",
-    "new": false
-  },
-  {
-    "name": "BTTS",
-    "image": "images.png",
-    "url": "btts",
-    "new": false
-  },
-  {
-    "name": "Burger and Frights",
-    "image": "splash.png",
-    "url": "burger-and-frights",
-    "new": false
-  },
-  {
-    "name": "Cannon Basketball 4",
-    "image": "img/splash.png",
-    "url": "cannon-basketball-4",
-    "new": false
-  },
-  {
-    "name": "Canyon Defense",
-    "image": "canyondefense.png",
-    "url": "canyondefense",
-    "new": false
-  },
-  {
-    "name": "Cars Simulator",
-    "image": "splash.png",
-    "url": "cars-simulator",
-    "new": false
-  },
-  {
-    "name": "Cell Machine",
-    "image": "img/te9nDu.png",
-    "url": "cell-machine",
-    "new": false
-  },
-  {
-    "name": "Champion Island",
-    "image": "splash.png",
-    "url": "champion-island",
     "new": false
   },
   {

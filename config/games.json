@@ -78,141 +78,15 @@
     "new": false
   },
   {
-    "name": "Chill Radio",
-    "image": "img/chill-icon.png",
-    "url": "chill-radio",
-    "new": false
-  },
-  {
-    "name": "Chrome Dino",
-    "image": "images/default_100_percent/offline/100-error-offline.png",
-    "url": "chrome-dino",
-    "new": false
-  },
-  {
-    "name": "Circlo",
-    "image": "img/download.png",
-    "url": "circlo",
-    "new": false
-  },
-  {
-    "name": "Cluster Rush",
-    "image": "splash.png",
-    "url": "cluster-rush",
-    "new": false
-  },
-  {
-    "name": "CN Ping Pong",
-    "image": "tabletennisultimate.png",
-    "url": "cnpingpong",
-    "new": false
-  },
-  {
-    "name": "Connect 3",
-    "image": "connect3.png",
-    "url": "connect3",
-    "new": false
-  },
-  {
     "name": "Cookie Clicker",
     "image": "cookie1.jpeg",
     "url": "cookie-clicker",
     "new": false
   },
   {
-    "name": "Core Ball",
-    "image": "pr_source.png",
-    "url": "core-ball",
-    "new": false
-  },
-  {
-    "name": "Craftmine",
-    "image": "images/animal-sheet0.png",
-    "url": "craftmine",
-    "new": false
-  },
-  {
-    "name": "Creative Kill Chamber",
-    "image": "creativekillchamber.jpg",
-    "url": "creativekillchamber",
-    "new": false
-  },
-  {
     "name": "Crossy Road",
     "image": "crossyroad.png",
     "url": "crossyroad",
-    "new": false
-  },
-  {
-    "name": "CS:GO Clicker",
-    "image": "images/case1.png",
-    "url": "csgo-clicker",
-    "new": false
-  },
-  {
-    "name": "CTR",
-    "image": "logo.png",
-    "url": "ctr",
-    "new": false
-  },
-  {
-    "name": "CTR Holiday",
-    "image": "favicon.ico",
-    "url": "ctr-holiday",
-    "new": false
-  },
-  {
-    "name": "CTR TR",
-    "image": "logo.png",
-    "url": "ctr-tr",
-    "new": false
-  },
-  {
-    "name": "Cubefield",
-    "image": "assets/unnamed.png",
-    "url": "cubefield",
-    "new": false
-  },
-  {
-    "name": "Cupcake 2048",
-    "image": "favicon.ico",
-    "url": "cupcake2048",
-    "new": false
-  },
-  {
-    "name": "Dante",
-    "image": "splash.png",
-    "url": "dante",
-    "new": false
-  },
-  {
-    "name": "Deal or No Deal",
-    "image": "index.jpg",
-    "url": "deal-or-no-deal",
-    "new": false
-  },
-  {
-    "name": "Death Run 3D",
-    "image": "img/death.png",
-    "url": "death-run-3d",
-    "new": false
-  },
-  {
-    "name": "Defend the Tank",
-    "image": "images/splash.jpg",
-    "url": "defend-the-tank",
-    "new": false
-  },
-  {
-    "name": "Doctor Acorn 2",
-    "image": "splash.jpg",
-    "url": "doctor-acorn2",
-    "new": false
-  },
-  {
-    "name": "Doge 2048",
-    "image": "doge1.jpeg",
-    "url": "doge2048",
     "new": false
   },
   {

@@ -96,27 +96,9 @@
     "new": false
   },
   {
-    "name": "Double Wires",
-    "image": "doublewires.png",
-    "url": "doublewires",
-    "new": false
-  },
-  {
-    "name": "Dragon vs. Bricks",
-    "image": "splash.png",
-    "url": "dragon-vs-bricks",
-    "new": false
-  },
-  {
     "name": "Draw the Hill",
     "image": "icons/icon-512.png",
     "url": "draw-the-hill",
-    "new": false
-  },
-  {
-    "name": "1v1lol",
-    "image": "logo.png",
-    "url": "1v1lol",
     "new": false
   },
   {
@@ -156,93 +138,9 @@
     "new": false
   },
   {
-    "name": "Edge Surf",
-    "image": "splash.png",
-    "url": "edge-surf",
-    "new": false
-  },
-  {
-    "name": "Edge Not Found",
-    "image": "edge.png",
-    "url": "edgenotfound",
-    "new": false
-  },
-  {
-    "name": "Eel Slap",
-    "image": "eel-slap.png",
-    "url": "eel-slap",
-    "new": false
-  },
-  {
-    "name": "Elastic Man",
-    "image": "elasticman.jpg",
-    "url": "elasticman",
-    "new": false
-  },
-  {
-    "name": "Endless War 3",
-    "image": "endlesswar3.png",
-    "url": "endlesswar3",
-    "new": false
-  },
-  {
-    "name": "Escaping the Prison",
-    "image": "escapingtheprison.jpg",
-    "url": "escapingtheprison",
-    "new": false
-  },
-  {
-    "name": "Evil Glitch",
-    "image": "evil.png",
-    "url": "evil-glitch",
-    "new": false
-  },
-  {
-    "name": "Evolution",
-    "image": "splash.png",
-    "url": "evolution",
-    "new": false
-  },
-  {
-    "name": "Exo",
-    "image": "img/small.jpg",
-    "url": "exo",
-    "new": false
-  },
-  {
-    "name": "Factory Balls",
-    "image": "images/splash.png",
-    "url": "factoryballs",
-    "new": false
-  },
-  {
-    "name": "Fairsquares",
-    "image": "index.icon.png",
-    "url": "fairsquares",
-    "new": false
-  },
-  {
     "name": "Fake Virus",
     "image": "icon.png",
     "url": "fake-virus",
-    "new": false
-  },
-  {
-    "name": "Fancy Pants Adventures",
-    "image": "fancypantsadventure.png",
-    "url": "fancypantsadventures",
-    "new": false
-  },
-  {
-    "name": "Fireboy and Watergirl: Forest Temple",
-    "image": "logo.jpeg",
-    "url": "fireboywatergirlforesttemple",
-    "new": false
-  },
-  {
-    "name": "Flappy 2048",
-    "image": "favicon.ico",
-    "url": "flappy-2048",
     "new": false
   },
   {
@@ -252,129 +150,15 @@
     "new": false
   },
   {
-    "name": "Flash Tetris",
-    "image": "flashtetris.png",
-    "url": "flashtetris",
-    "new": false
-  },
-  {
-    "name": "Flippy Fish",
-    "image": "2022_10_28_0jt_Kleki.png",
-    "url": "flippy-fish",
-    "new": false
-  },
-  {
     "name": "Five Nights at Wario's (FNAW)",
     "image": "splash.png",
     "url": "fnaw",
     "new": false
   },
   {
-    "name": "Friday Night Funkin'",
-    "image": "fnf-icon.jpg",
-    "url": "fridaynightfunkin",
-    "new": false
-  },
-  {
-    "name": "Froggy's Battle",
-    "image": "splash.png",
-    "url": "froggys-battle",
-    "new": false
-  },
-  {
-    "name": "Fruit Ninja",
-    "image": "FruitNinjaTeaser.jpg",
-    "url": "fruitninja",
-    "new": false
-  },
-  {
-    "name": "Frying Nemo",
-    "image": "splash.png",
-    "url": "frying-nemo",
-    "new": false
-  },
-  {
-    "name": "Game Inside",
-    "image": "img/display.png",
-    "url": "game-inside",
-    "new": false
-  },
-  {
-    "name": "Generic Fishing Game",
-    "image": "splash.png",
-    "url": "generic-fishing-game",
-    "new": false
-  },
-  {
-    "name": "Geo Dash",
-    "image": "geoscratchicon.png",
-    "url": "geodash",
-    "new": false
-  },
-  {
-    "name": "George and the Printer",
-    "image": "img/SnDTEn.png",
-    "url": "georgeandtheprinter",
-    "new": false
-  },
-  {
     "name": "Getaway Shootout",
     "image": "img/images.jpg",
     "url": "getaway-shootout",
-    "new": false
-  },
-  {
-    "name": "Gimme the Airpod",
-    "image": "img/logo.png",
-    "url": "gimme-the-airpod",
-    "new": false
-  },
-  {
-    "name": "Glass City",
-    "image": "image.png",
-    "url": "glass-city",
-    "new": false
-  },
-  {
-    "name": "Go Ball",
-    "image": "game.jpg",
-    "url": "go-ball",
-    "new": false
-  },
-  {
-    "name": "Goodnight",
-    "image": "goodnight.jpg",
-    "url": "goodnight",
-    "new": false
-  },
-  {
-    "name": "Google Feud",
-    "image": "splash.png",
-    "url": "google-feud",
-    "new": false
-  },
-  {
-    "name": "Google Snake",
-    "image": "img/snake.png",
-    "url": "google-snake",
-    "new": false
-  },
-  {
-    "name": "Gravity Soccer",
-    "image": "splash.png",
-    "url": "gravity-soccer",
-    "new": false
-  },
-  {
-    "name": "Greybox",
-    "image": "ico.png",
-    "url": "greybox",
-    "new": false
-  },
-  {
-    "name": "Grindcraft",
-    "image": "img/splash.png",
-    "url": "grindcraft",
     "new": false
   },
   {

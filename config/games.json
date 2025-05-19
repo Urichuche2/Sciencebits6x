@@ -1,4 +1,11 @@
 [
+  
+  {
+    "name": "Protektor",
+    "image": "splash.jpg",
+    "url": "protektor",
+    "new": false
+  },
   {
     "name": "DogeMiner",
     "image": "favicon.ico",
@@ -183,12 +190,6 @@
     "name": "Papery Planes",
     "image": "splash.jpg",
     "url": "papery-planes",
-    "new": false
-  },
-  {
-    "name": "Protektor",
-    "image": "splash.jpg",
-    "url": "protektor",
     "new": false
   },
   {

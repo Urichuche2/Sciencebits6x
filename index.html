@@ -19,6 +19,24 @@
                     <!-- Secció GAEL -->
     <div> 
     <a class="titulo , center">Felicitats GAEL</a></div>
+    <div class="timer">
+  <span>00:</span>
+  <span id="countdown">10</span>
+</div>
+
+<style>
+.timer {
+  font-family: monospace;
+  font-size: 2rem;
+  display: inline-flex;
+  align-items: center;
+  background: #111;
+  color: #0f0;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+}
+</style>
+
                     <!-- Titulo juegos -->
     <div>
       <a class="titulo">Juegos Destacados</a>
@@ -44,6 +62,18 @@
   window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
 </script>
 <script defer src="/_vercel/speed-insights/script.js"></script>
+
+                <!-- Gael -->
+    
+<script>
+let i = 10;
+const el = document.getElementById("countdown");
+const timer = setInterval(() => {
+  el.textContent = --i;
+  if (i <= 0) clearInterval(timer);
+}, 1000);
+</script>
+
   </body>
 </html>
 

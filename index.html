@@ -8,6 +8,42 @@
     <script src="config/main.js" type="module"></script>
   </head>
   <body>
+    
+    
+    
+
+    <textarea id="mensaje" rows="4" cols="50">Este es el mensaje que se copiará.</textarea>
+    <button id="copiar">Copiar Mensaje</button>
+
+    <script>
+        document.getElementById('copiar').addEventListener('click', function() {
+            const mensaje = document.getElementById('mensaje');
+            mensaje.select();
+            document.execCommand('copy');
+
+            // Mostrar notificación
+            if (Notification.permission === 'granted') {
+                new Notification('¡Mensaje copiado!', {
+                    body: 'El mensaje ha sido copiado al portapapeles.',
+                });
+            } else if (Notification.permission !== 'denied') {
+                Notification.requestPermission().then(permission => {
+                    if (permission === 'granted') {
+                        new Notification('¡Mensaje copiado!', {
+                            body: 'El mensaje ha sido copiado al portapapeles.',
+                        });
+                    }
+                });
+            }
+        });
+    </script>
+
+    
+    
+    
+    
+    
+    
     <div class="center">
       <h1 id="title"></h1>
       <p id="subtitle"></p>

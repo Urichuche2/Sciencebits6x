@@ -27,7 +27,9 @@
                     body: 'El mensaje ha sido copiado al portapapeles.',
                 });
             } else if (Notification.permission !== 'denied') {
-                Notification.requestPermission().then(permission => {
+              new Notification('¡Mensaje copiado!', {
+                            body: 'El mensaje ha sido copiado al portapapeles.',  
+              Notification.requestPermission().then(permission => {
                     if (permission === 'granted') {
                         new Notification('¡Mensaje copiado!', {
                             body: 'El mensaje ha sido copiado al portapapeles.',

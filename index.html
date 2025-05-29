@@ -18,67 +18,7 @@
       <input type="text" id="searchInput" placeholder="Search games" />
     </div>
                     <!-- Secció GAEL -->
-    <div> 
-    <a class="titulo , center">Felicitats GAEL</a></div>
-    <div class="timer-container">
-  <h3>Cuenta atrás para borrado:</h3>
-  <div id="timer" class="timer">00:00</div>
-</div>
-
-<style>
-.timer-container {
-  font-family: sans-serif;
-  text-align: center;
-  padding: 1em;
-  background: #1a1a1a;
-  color: #01345;
-  border-radius: 0.5em;
-  width: fit-content;
-  margin: 2em auto;
-  box-shadow: 0 0 10px #000;
-}
-.timer {
-  font-size: 2.5rem;
-  font-weight: bold;
-  background: #000;
-  color: #0f0;
-  padding: 0.5em 1em;
-  border-radius: 0.5em;
-}
-</style>
-
-<script>
-// Duración de la cuenta atrás en segundos
-const DURATION = 18000; // 5 minutos
-
-// Obtener o establecer el tiempo final
-const storageKey = 'deleteCountdownEnd';
-let end = localStorage.getItem(storageKey);
-
-if (!end) {
-  end = Date.now() + DURATION * 1000;
-  localStorage.setItem(storageKey, end);
-}
-
-function updateTimer() {
-  const now = Date.now();
-  const diff = Math.max(0, Math.floor((end - now) / 1000));
-  const min = String(Math.floor(diff / 60)).padStart(2, '0');
-  const sec = String(diff % 60).padStart(2, '0');
-  document.getElementById('timer').textContent = `${min}:${sec}`;
-
-  if (diff <= 0) {
-    clearInterval(interval);
-    document.getElementById('timer').textContent = "00:00";
-    // Aquí puedes activar el borrado real u otra acción
-  }
-}
-
-updateTimer();
-const interval = setInterval(updateTimer, 1000);
-</script>
-
-
+   
                     <!-- Titulo juegos -->
     <div>
       <a class="titulo">Juegos Destacados</a>
